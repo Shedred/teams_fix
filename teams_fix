@@ -1,2 +1,2 @@
-cd %USERPROFILE%\appdata\local\packages
+cd C:\Users\USERNAME\appdata\local\packages
 Remove-Item *aad.broker -force
